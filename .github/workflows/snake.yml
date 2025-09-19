@@ -1,9 +1,9 @@
 name: generate-snake-game
 
 on:
-  schedule:
+  schedule: # roda automaticamente todo dia às 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
