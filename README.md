@@ -43,3 +43,4 @@
 <img src="https://raw.githubusercontent.com/joaovitor1-mg/joaovitor1-mg/output/snake.svg" alt="Snake animation" />
 
 ###
+
