@@ -1,14 +1,14 @@
 # Olá! Eu sou o João Vitor 👋
 
-Estudante de **CEFET-MG** e programador iniciante. 
+Estudante da instituição **CEFET-MG** com paixão por desenvolvimento e tecnologia.
 
 ---
 
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" width="400" alt="Top Languages" />
 </p>
 
 ---
@@ -28,6 +28,8 @@ Estudante de **CEFET-MG** e programador iniciante.
 </p>
 
 ---
+
+## Animações Divertidas
 
 <p align="center">
   <img height="160" src="https://imgs.search.brave.com/ExMtkRC0nlc_3CrJ7V0Po22TxB6hJiEZ9OrMYAzymT8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaWNoaWdv/LWt1cm9zYWtpLXNo/aW5pZ2FtaS1hbmdy/eS1ibGVhY2gtYW5p/bWUteWhnb2NjMHdi/OWxuaHdhZS5naWY.gif" alt="Animação" />
