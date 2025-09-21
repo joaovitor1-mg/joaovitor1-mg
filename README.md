@@ -29,8 +29,6 @@ Estudante da instituição **CEFET-MG** com paixão por desenvolvimento e tecnol
 
 ---
 
-## Animações Divertidas
-
 <p align="center">
   <img height="160" src="https://imgs.search.brave.com/ExMtkRC0nlc_3CrJ7V0Po22TxB6hJiEZ9OrMYAzymT8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaWNoaWdv/LWt1cm9zYWtpLXNo/aW5pZ2FtaS1hbmdy/eS1ibGVhY2gtYW5p/bWUteWhnb2NjMHdi/OWxuaHdhZS5naWY.gif" alt="Animação" />
 </p>
@@ -52,3 +50,4 @@ Estudante da instituição **CEFET-MG** com paixão por desenvolvimento e tecnol
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 
 ---
+
