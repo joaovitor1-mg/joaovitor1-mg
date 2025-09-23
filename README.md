@@ -12,7 +12,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="150" width="1000" />
+<img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="150" width="1000" alt="github streak" />
 </p>
 
 ---
