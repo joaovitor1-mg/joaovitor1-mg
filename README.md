@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Vitor 👋
+[# Olá! Eu sou o João Vitor 👋
 
 Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecnologia.
 
@@ -34,7 +34,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ---
 
 <p align="center">
-  <img height="160" src="https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif" alt="Animação" />
+  <img height="160" src="https://imgur.com/a/MDAzzHP" alt="Animação" />
 </p>
 
 <p align="center">
@@ -59,3 +59,5 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 
 
+
+](https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif)
