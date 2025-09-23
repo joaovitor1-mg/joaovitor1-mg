@@ -34,9 +34,8 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ---
 
 <p align="center">
-  <img height="160" src="[https://i.imgur.com/CuvtX9M.gif](https://i.imgur.com/CuvtX9M.gif)" alt="Animação" />
+  <img height="160" src="https://i.imgur.com/CuvtX9M.gif" alt="Animação" />
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/joaovitor1-mg/joaovitor1-mg/output/github-snake-dark.svg" />
@@ -61,5 +60,6 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 
 ](https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif)
+
 
 
