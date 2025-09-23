@@ -34,7 +34,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ---
 
 <p align="center">
-  <img height="100" src="https://i.imgur.com/CuvtX9M.gif" alt="Animação" />
+  <img height="100" src="https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif" alt="Animação" />
 </p>
 <p align="center">
   <picture>
@@ -56,10 +56,6 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 
 
-
-
-
-](https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif)
 
 
 
