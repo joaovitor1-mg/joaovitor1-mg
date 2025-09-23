@@ -12,7 +12,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 </div>
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="150" width="80%" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="170" width="90%" alt="github streak" />
 </p>
 
 ---
@@ -57,6 +57,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 
 ---
+
 
 
 
