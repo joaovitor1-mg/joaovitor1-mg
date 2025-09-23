@@ -6,13 +6,21 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 ## Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="200" width="400" alt="Top Languages" />
-</div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="150" alt="github streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" width="400" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="200" width="400" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="150" alt="github streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
