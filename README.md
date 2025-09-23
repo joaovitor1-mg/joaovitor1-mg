@@ -7,9 +7,12 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" width="400" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitor1-mg &theme=tokyonight&hide_border=true" height="150" width="1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" width="400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitor1-mg &theme=tokyonight&hide_border=true" height="150" width="1000" />
 </p>
 
 ---
@@ -46,11 +49,8 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a ) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/joaovitor1-mg )
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovitor1-mg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomartineelli/)
 
 ---
-
-
-
