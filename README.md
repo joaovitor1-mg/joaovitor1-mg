@@ -34,8 +34,9 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ---
 
 <p align="center">
-  <img height="100" src="https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif" alt="Animação" />
-</p>
+  <img height="160" src="img/CuvtX9M.gif" alt="Animação" />
+</p>" alt="Animação" />
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/joaovitor1-mg/joaovitor1-mg/output/github-snake-dark.svg" />
@@ -53,6 +54,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomartineelli/)
 
 ---
+
 
 
 
