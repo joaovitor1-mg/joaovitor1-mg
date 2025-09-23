@@ -9,8 +9,8 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ## Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" width="200" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" width="200" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" width="51%" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" width="49%" height="150" alt="Top Languages" />
 </div>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joaovitor1-mg&theme=dracula&hide_border=true" height="150" width="200" alt="github streak" />
@@ -35,9 +35,9 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ---
 
 <div align="center">
-  <img height="200" width="350" src="img/CuvtX9M.gif" alt="Animação" />
+  <img height="200" width="50%" src="img/CuvtX9M.gif" alt="Animação" />
   <img width="20" />
-  <img height="200" width="350" src="img/a5c666510e2ea685c3a4af2f20ca86b2.gif" alt="Animação" />
+  <img height="200" width="48%" src="img/a5c666510e2ea685c3a4af2f20ca86b2.gif" alt="Animação" />
 </div>
 
 ---
@@ -58,6 +58,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 
 ---
+
 
 
 
