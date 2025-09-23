@@ -50,7 +50,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 ---
 
-## Conecte-se Comigo
+## Outras redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovitor1-mg)
