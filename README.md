@@ -35,6 +35,8 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 <p align="center">
   <img height="160" width="400" src="img/CuvtX9M.gif" alt="Animação" />
+  a5c666510e2ea685c3a4af2f20ca86b2.gif
+  <img height="160" width="400" src="img/a5c666510e2ea685c3a4af2f20ca86b2.gif" alt="Animação" />
 
 <p align="center">
   <picture>
@@ -53,6 +55,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomartineelli/)
 
 ---
+
 
 
 
