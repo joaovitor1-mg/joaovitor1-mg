@@ -1,10 +1,10 @@
-# Olá! Eu sou o João Vitor 👋
+# Olá, eu sou o João Vitor 👋
 
 Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecnologia.
 
 ---
 
-## Minhas Estatísticas no GitHub
+## Minhas Estatísticas 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" width="400" alt="GitHub Stats" />
