@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Vitor 👋
 
-Estudante da instituição **CEFET-MG** com paixão por desenvolvimento e tecnologia.
+Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecnologia.
 
 ---
 
@@ -50,4 +50,5 @@ Estudante da instituição **CEFET-MG** com paixão por desenvolvimento e tecnol
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 
 ---
+
 
