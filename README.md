@@ -34,7 +34,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 ---
 
 <p align="center">
-  <img height="160" src="[https://imgs.search.brave.com/ExMtkRC0nlc_3CrJ7V0Po22TxB6hJiEZ9OrMYAzymT8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaWNoaWdv/LWt1cm9zYWtpLXNo/aW5pZ2FtaS1hbmdy/eS1ibGVhY2gtYW5p/bWUteWhnb2NjMHdi/OWxuaHdhZS5naWY.gif](https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif)" alt="Animação" />
+  <img height="160" src="https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif" alt="Animação" />
 </p>
 
 <p align="center">
