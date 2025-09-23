@@ -1,4 +1,4 @@
-[# Olá! Eu sou o João Vitor 👋
+# Olá! Eu sou o João Vitor 👋
 
 Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecnologia.
 
@@ -60,6 +60,7 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 
 
 ](https://i.pinimg.com/originals/e9/e2/86/e9e286a9cbb4eec59d3309a1ac538182.gif)
+
 
 
 
