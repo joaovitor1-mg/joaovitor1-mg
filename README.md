@@ -55,8 +55,9 @@ Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a )
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/joaovitor1-mg )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovitormrtgomes@gmail.com)
 
----
+
 
 
 
