@@ -34,9 +34,9 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 ---
 
 <div align="center">
-  <img height="200" width="40%" src="img/CuvtX9M.gif" alt="Animação" />
+  <img height="150" width="40%" src="img/CuvtX9M.gif" alt="Animação" />
   <img width="20" />
-  <img height="200" width="40%" src="img/a5c666510e2ea685c3a4af2f20ca86b2.gif" alt="Animação" />
+  <img height="150" width="40%" src="img/a5c666510e2ea685c3a4af2f20ca86b2.gif" alt="Animação2" />
 </div>
 
 ---
@@ -55,6 +55,7 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovitormrtgomes@gmail.com)
+
 
 
 
