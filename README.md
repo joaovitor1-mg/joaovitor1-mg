@@ -1,6 +1,6 @@
 # Olá, eu sou o João Vitor 
 
-Estudante da instituição **CEFET-MG** com interesse por desenvolvimento e tecnologia.
+Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 
 ---
 
