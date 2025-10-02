@@ -52,9 +52,10 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 
 ## Outras redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](www.linkedin.com/in/joão-vitor-martinelli-gomes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovitormrtgomes@gmail.com)
+
 
 
 
