@@ -7,7 +7,7 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 ## Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" width="45%" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" width="45%" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" width="47%" height="150" alt="Top Languages" />
 </div>
 <br>
@@ -55,6 +55,7 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/jo%C3%A3o-vitor-martinelli-gomes-7953b637a )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovitormrtgomes@gmail.com)
+
 
 
 
