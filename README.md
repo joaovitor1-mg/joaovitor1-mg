@@ -9,7 +9,7 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 <div align="center">  
   <img src="https://git-hub-streak-stats.vercel.app?user=joaovitor1-mg&theme=dracula&hide_border=true&locale=pt_BR" width="49%" />
     <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&show_icons=true&theme=dracula&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&show_icons=true&theme=dracula&hide_border=true" width="46%" />
 </div>
 </br>
 <div align="center">
@@ -56,6 +56,7 @@ Estudante da instituição **CEFET-MG** com interesse por tecnologia.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](www.linkedin.com/in/joão-vitor-martinelli-gomes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovitormrtgomes@gmail.com)
+
 
 
 
