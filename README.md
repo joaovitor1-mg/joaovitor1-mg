@@ -34,5 +34,7 @@
   </a>
 </div>
 
-Outras Redes <img src="https://img.shields.io/badge/%20-🌐-000000?style=flat-square&logo=link&logoColor=white">
+
+### Outras Redes <img src="https://img.shields.io/badge/%20-🌐-000000?style=flat-square&logo=link&logoColor=white">
 <div> <a href="https://www.linkedin.com/in/joão-vitor-martinelli-gomes"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/joaomartineelli/"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div>
+
