@@ -1,44 +1,43 @@
-# Olá, eu sou o João Vitor 
+# João Vitor 👀
 
-Estudante da instituição **CEFET-MG** com interesse por tecnologia.
-
----
-
-## Minhas Estatísticas
-
-<div align="center">  
-  <img src="https://git-hub-streak-stats.vercel.app?user=joaovitor1-mg&theme=dracula&hide_border=true&locale=pt_BR" width="49%" />
-    <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor1-mg&show_icons=true&theme=dracula&hide_border=true" width="46%" />
-</div>
-</br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" width="45%" alt="Top Languages" />
+## About me <img src="https://img.shields.io/badge/%20-🤖-000000?style=flat-square&logo=robot&logoColor=white">
+<div>
+  <img src="https://img.shields.io/badge/Desenvolvedor_Full_Stack-000000?style=for-the-badge&logo=dev.to&logoColor=white">
+  <img src="https://img.shields.io/badge/Estudante_de_Programação-000000?style=for-the-badge&logo=academia&logoColor=white">
 </div>
 
----
+### Langs <img src="https://img.shields.io/badge/%20-💻-000000?style=flat-square&logo=code&logoColor=white">
 
-## Tecnologias que Utilizo
+<div>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</p>
+### Studying <img src="https://img.shields.io/badge/%20-📚-000000?style=flat-square&logo=book&logoColor=white">
 
----
+<div>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
-## Outras redes sociais
+### Contact <img src="https://img.shields.io/badge/%20-📬-000000?style=flat-square&logo=mail&logoColor=white">
+
+<div>
+  <a href="mailto:joaovitormrtgomes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+## Outras Redes 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](www.linkedin.com/in/joão-vitor-martinelli-gomes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovitormrtgomes@gmail.com)
 
 
 
