@@ -1,6 +1,6 @@
 # 👀
 
-## About me <img src="https://img.shields.io/badge/%20--000000?style=flat-square&logo=robot&logoColor=white">
+## About me <img src="https://img.shields.io/badge/%20-🧟‍♀️-000000?style=flat-square&logo=robot&logoColor=white">
 <div>
   <img src="https://img.shields.io/badge/Desenvolvedor_Full_Stack-000000?style=for-the-badge&logo=dev.to&logoColor=white">
   <img src="https://img.shields.io/badge/Estudante_de_Programação-000000?style=for-the-badge&logo=academia&logoColor=white">
@@ -38,6 +38,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](www.linkedin.com/in/joão-vitor-martinelli-gomes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/joaomartineelli/ )
+
 
 
 
