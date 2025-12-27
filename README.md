@@ -26,16 +26,20 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### Contact 
+### Contact 🌐
 
 <div>
   <a href="mailto:joaovitormrtgomes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+ <a href="https://www.linkedin.com/in/joão-vitor-martinelli-gomes"> 
+   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> 
+ </a> 
 </div>
+<a href="https://www.instagram.com/joaomartineelli/"> 
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 
-### Outras Redes <img src="https://img.shields.io/badge/%20-🌐-000000?style=flat-square&logo=link&logoColor=white">
-<div> <a href="https://www.linkedin.com/in/joão-vitor-martinelli-gomes"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/joaomartineelli/"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div>
 
 
