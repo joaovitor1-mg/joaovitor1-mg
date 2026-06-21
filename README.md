@@ -2,7 +2,7 @@
 <div>
   <img src="https://img.shields.io/badge/Desenvolvedor_Full_Stack-000000?style=for-the-badge&logo=dev.to&logoColor=white">
   <img src="https://img.shields.io/badge/Estudante_de_Programação-000000?style=for-the-badge&logo=academia&logoColor=white">
-  <img align="right" width="250" src="https://giffiles.alphacoders.com/220/220901.gif" alt="Kaneki" />
+  <img align="right" width="200" src="https://giffiles.alphacoders.com/220/220901.gif" alt="Kaneki" />
 </div>
 
 ### Langs 
