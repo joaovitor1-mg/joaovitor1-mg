@@ -19,8 +19,6 @@
 <div>
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
