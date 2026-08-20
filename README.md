@@ -45,7 +45,7 @@
   <a href="mailto:joaovitormrtgomes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
- <a href="https://www.linkedin.com/in/joão-vitor-martinelli-gomes"> 
+ <a href="https://www.linkedin.com/in/joaovitormartinelli/"> 
    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> 
  </a> 
 <a href="https://www.instagram.com/joaomartineelli/"> 
