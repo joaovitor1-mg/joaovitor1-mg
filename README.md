@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-  <img scr="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 
 ### Contact 🌐
